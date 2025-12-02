@@ -14,24 +14,19 @@ Costo Cero: La aplicación no depende de ninguna API o servidor, lo que garantiz
 
 Tecnologías: Construido en un solo archivo HTML, usando React, Tailwind CSS y la librería QRious.
 
-🚀 Instrucciones Paso a Paso para Despliegue con GitHub Pages
+💡 Cómo Usar la Aplicación
 
-Una vez que hayas subido los archivos index.html y README.md a tu repositorio, sigue estos pasos para publicarlo de forma gratuita:
+Accede a la aplicación publicada aquí: https://goyoaga.github.io/qr-generator/
 
-Navega a la pestaña Configuración: Ve a la pestaña Settings (Configuración) de tu repositorio.
+Ingresa la URL: Pega o escribe el enlace completo que deseas codificar en el campo "Dirección URL". El código QR se generará automáticamente en tiempo real.
 
-Selecciona Pages: En el menú lateral izquierdo, haz clic en Pages.
+Ajusta el Tamaño (Opcional): Utiliza el control deslizante para establecer la resolución (píxeles) de la imagen QR.
 
-Configura la Fuente:
+Descarga: Haz clic en el botón "Descargar QR (PNG)" para guardar la imagen en tu dispositivo.
 
-En la sección "Build and deployment" (Construcción y despliegue), en "Source" (Fuente), selecciona la rama main (o la rama donde subiste tus archivos).
-
-Asegúrate de que la carpeta de despliegue sea / (root).
-
-Guarda y Espera: Haz clic en el botón Save (Guardar).
-
-Revisa la URL: GitHub tardará unos minutos en construir el sitio. Una vez que esté listo, la URL de tu aplicación publicada aparecerá en esta misma sección de Pages. ¡Esa es la URL que puedes compartir!
-
-<p align="center">
+<div align="center">
 Licencia: MIT (Gratuita) | por Ariel Goyoaga 🤖
-</p>
+
+
+☕ Invítame a un café en Ko-fi
+</div>
